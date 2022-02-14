@@ -1,0 +1,29 @@
+_repo: Ninth-Avenue_67372
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bodenheim, Maxwell
+    alias: Bodenheimer, Maxwell
+    birthdate: 1893
+    deathdate: 1954
+    gutenberg_agent_id: '9822'
+    url: http://www.gutenberg.org/2009/agents/9822
+    wikipedia: https://en.wikipedia.org/wiki/Maxwell_Bodenheim
+description: ''
+gutenberg_issued: '2022-02-11'
+identifiers:
+  gutenberg: '67372'
+language: en
+pgterms:marc905: 20211030104247bodenheim
+pgterms:marc906: '1926'
+pgterms:marc907: US
+production_note: Steve Mattern, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: United States :Boni & Liveright,1926.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Ninth Avenue
+url: http://www.gutenberg.org/ebooks/67372
